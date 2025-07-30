@@ -69,8 +69,7 @@ This SQL project focuses on analyzing a restaurant's menu_items and order_detail
 
 ## 🧠 Tools Used
 
-- *SQL* – MySQL Workbench (MySQL 8.0)
-- *GitHub* – For version control and project sharing
+- *SQL* – MySQL Workbench 
 
 ---
 
